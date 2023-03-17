@@ -30,6 +30,3 @@ python3-dev
 ruby
 xdg-dbus-proxy
 compat-libsoup-soname-24-dev
-unifdef
-libwpe-dev
-WPEBackend-fdo-dev
